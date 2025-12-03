@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Word Master",
+  "description": "A high-fidelity vocabulary learning assistant that parses raw word lists and uses Google Gemini TTS for immersive pronunciation playback.",
+  "requestFramePermissions": []
+}
